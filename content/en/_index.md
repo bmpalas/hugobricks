@@ -5,11 +5,9 @@ title: Home
 
 # The art and comics of Brandon Palas
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+Comics, illustrations, sketch pages, and more.
 
-{{< button "Get started for free" "/get-started/" >}}
-
-![](/img/graphics/bpalas-bio.png)
+![](/img/graphics/bpalas-intro.png)
 
 {{< /brick_intro >}}
 
@@ -17,19 +15,18 @@ Hugobricks is a free website theme for Hugo. It makes building Hugo websites chi
 
 ## Art Gallery
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/img/graphics/illustration.jpg)
 
-Just a huge whack of my art from over the years.
+Just a huge whack of my art from over the years. Commercial illustrations and private commissions, sketches, fanart -- all kinds of stuff. 
 
-- Stuff I did for fun
-- Lots of D&D commissions
+{{< button "Check it out now!" "/gallery/" >}}
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
 ## Sketchbook
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/img/graphics/sketchbook.jpg)
 
 This is a huge collection of selections from my digital sketchbooks over the years. 
 
@@ -41,9 +38,26 @@ This is a huge collection of selections from my digital sketchbooks over the yea
 
 {{< brick_image2 >}}
 
+## Bastard Planet
+
+My action-packed, sci-fi webcomic. I describe it as "galactic cyberpulp", and I even update it sometimes, still. 
+
+![](/img/graphics/bastard-planet.png)
+
+{{< button "Read it here!" "https://www.bastardplanet.com/" >}}
+
+
+
+{{< /brick_image2 >}}
+
+{{< brick_image >}}
+
 ## Comics
 This is what i *do*. Art from comics I've been lucky enough to draw for money, and personal projects of mine you can read right here!
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-{{< /brick_image2>}}
+
+{{< button "Check out the panels and pages here!" "/comics/" >}}
+
+{{< /brick_image>}}

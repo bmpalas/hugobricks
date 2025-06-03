@@ -3,11 +3,11 @@ title: About
 ---
 {{< brick_about >}}
 
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+{{< colorize_image "This is not me" "/img/graphics/brandon-about.jpg" >}}
 
-# Hey, my name is Joost
+# Hi, I'm Brandon Palas
 
-Together with my friend 'Fenix' I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. The guy in the picture is not me, but an avatar from the internet. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. 
+I'm a lifelong artist, with over a decade of experience working in comics and illustration. This site collects a huge portion of my work from throughout my life. Currently, I'm intermittently working on my sci-fi adventure comic [Bastard Planet](https://www.bastardplanet.com), and I'm learning to tattoo. 
 
 {{< socialbuttons >}}
 

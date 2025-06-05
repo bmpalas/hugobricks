@@ -21,7 +21,7 @@ markup:
 languages:
   en:
     languageName: English
-    contentDir: content/en
+    contentDir: content
     weight: 1
     disabled: false
     permalinks:

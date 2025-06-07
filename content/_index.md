@@ -35,16 +35,15 @@ This is a huge collection of selections from my digital sketchbooks over the yea
 
 
 {{< /brick_image >}}
-
 {{< brick_image2 >}}
 
 ## Bastard Planet
 
 My action-packed, sci-fi webcomic. I describe it as "galactic cyberpulp", and I even update it sometimes, still. 
 
-![](/img/graphics/bastard-planet.png)
+![](/img/graphics/bastardplanet-promo-square.jpg)
 
-{{< button "Read it here!" "https://www.bastardplanet.com/" >}}
+{{< button "Read it here!" "https://bastardplanet.com/comic/flight-title/" >}}
 
 
 

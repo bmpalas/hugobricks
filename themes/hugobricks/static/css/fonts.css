@@ -19,8 +19,15 @@
     font-weight: 600;
     src: url('/fonts/heebo-v21-latin-600.woff2') format('woff2');
 }
+@font-face {
+    font-display: swap;
+    font-family: 'GermaniaOne';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/fonts/GermaniaOne-Regular.woff2') format('woff2');
+}
 
 :root {
-    --fontTitles: 'Signika', sans-serif;
+    --fontTitles: 'GermaniaOne', sans-serif;
     --fontBody: 'Heebo', sans-serif;
 }

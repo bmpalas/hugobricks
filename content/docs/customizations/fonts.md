@@ -3,7 +3,7 @@ title: Fonts
 weight: 2
 ---
 
-The font files are stored in the '/static/fonts/' directory of the theme. The font definitions can be found in 'fonts.css' in '/static/css/fonts.css'. Changing this file will change the fonts in your whole website. This file looks like this:
+The font files are stored in the '/assets/fonts/' directory of the theme. The font definitions can be found in 'fonts.css' in '/assets/css/fonts.css'. Changing this file will change the fonts in your whole website. This file looks like this:
 
 ```
 @font-face {

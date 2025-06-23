@@ -1,0 +1,49 @@
+@import "fonts.css";
+@import "base.css";
+@import "header-footer.css";
+@import "bricks.css";
+
+/*------------------------*/
+/* theme colors
+/*------------------------*/
+
+:root {
+    --textDarker: #ffffff;                     /* White for highest contrast text */
+    --textDark: #e0e0e0;                       /* Light gray text for general use */
+    --textMedium: rgba(255, 255, 255, 0.7);    /* Softer white for secondary text */
+    --borderMedium: rgba(255, 255, 255, 0.2);  /* Light border lines */
+    --borderLight: rgba(255, 255, 255, 0.075); /* Subtle light borders */
+    --accent: #d62828;                         /* Strong red accent */
+    --accentDarker: #a32020;                   /* Darker red for hover states */
+    --light: rgba(92, 127, 163, 0.1);          /* Muted blue tint for background hovers, etc. */
+}
+
+/*------------------------*/
+/* turn grayscale off
+/*------------------------*/
+
+img {filter: grayscale(0);}
+
+/*------------------------*/
+/* colorize_image
+/*------------------------*/
+
+.colorize_image {filter: contrast(1) sepia(1) hue-rotate(160deg) grayscale(0.8)!important;}
+
+/*------------------------*/
+/* black_2_textDark
+/*------------------------*/
+
+.map::after, .black_2_textDark {filter: contrast(0.7) sepia(1) hue-rotate(160deg)!important;}
+
+/*------------------------*/
+/* black_2_textMedium
+/*------------------------*/
+
+.black_2_textMedium {filter: contrast(0.3) sepia(0.3) hue-rotate(160deg) brightness(1.4)!important;}
+
+/*------------------------*/
+/* black_2_accent
+/*------------------------*/
+
+.black_2_accent {filter: contrast(0.24) sepia(1) hue-rotate(138deg) contrast(6) brightness(1.6) !important;}

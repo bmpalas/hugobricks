@@ -1,6 +1,6 @@
-logo_image:
-logo_subtitle: The Ultimate Hugo Theme
-dark_header: false
+logo_image: 
+logo_subtitle: The Art of Brandon Palas
+dark_header: true
 mobile_view_width: 1100
 menuitems:
   - title: Headers

@@ -10,4 +10,4 @@ page_size: 3
 show_all_services: true
 preheader: 
   active: false
-  is_light: true
+  is_light: false

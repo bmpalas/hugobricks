@@ -3,6 +3,10 @@ theme: hugobricks
 defaultContentLanguage: en
 assetDir: assets
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 markup:
   goldmark:
     renderer:

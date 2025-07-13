@@ -13,6 +13,12 @@ Comics, illustrations, sketch pages, and more.
 
 {{< brick_image2 >}}
 
+{{< brick_small >}}
+
+This is a test of the Small Brick.
+
+{{< /brick_small >}}
+
 ## Art Gallery
 
 ![](/img/graphics/illustration.jpg)

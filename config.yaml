@@ -1,4 +1,4 @@
-baseURL: https://www.hugobricks.preview.usecue.com
+baseURL: https://bpalas.netlify.app/
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: assets

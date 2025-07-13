@@ -1,7 +1,7 @@
 baseURL: https://bpalas.netlify.app/
 theme: hugobricks
 defaultContentLanguage: en
-assetDir: assets
+assetDir: static
 
 caches:
   images:

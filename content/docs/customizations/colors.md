@@ -3,7 +3,7 @@ title: Colors
 weight: 1
 ---
 
-The color definitions can be found in 'style.css' in '/assets/css/style.css'. The definitions are stored in CSS variables. Changing these variables will change the colors in your whole website. The default settings (from this website) look like this:
+The color definitions can be found in 'style.css' in '/static/css/style.css'. The definitions are stored in CSS variables. Changing these variables will change the colors in your whole website. The default settings (from this website) look like this:
 
 ```
 :root {
